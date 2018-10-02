@@ -69,6 +69,9 @@ typings/
 # IDE
 .idea/
 
+# API
+KEY
+
 # misc
 .DS_Store
 .env.local
